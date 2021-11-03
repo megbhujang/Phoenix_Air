@@ -1,0 +1,72 @@
+.container
+{
+	width:100%;
+
+}
+body
+{
+	padding:0;
+	margin:0;
+	color:black;
+}
+  footer
+  {
+  	width:100%;
+  	padding-top:20px;
+  	padding-bottom:20px;
+  	margin-top:20px;
+  	color:white;
+  	background-color:gray;
+  	text-align:center;
+
+  }
+  #al
+  {
+    text-align:right;
+  }
+  .jumbotron
+  {
+    width:100%;
+    min-height:200px;
+    background-color:brown;
+    color:white;
+  }
+  .jumbotron img
+  {
+    padding-left:10px;
+    padding-right:10px;
+  }
+  #puzzle
+  {
+    min-height:200px;
+  }
+  #rip
+  {
+    margin-top:20px;
+    background-color:brown;
+    margin:5 5 5 5;
+    text-align:center;
+
+
+  }
+  #rip1
+  {
+    background-color:lightgray;
+    color:black;
+    margin:5 5 5 5;
+    margin-bottom:10px;
+}
+  #panel
+  {
+    margin-bottom:20px;
+  }
+  .img
+  {
+    margin-top:30px;
+    margin-bottom:30px;
+  }
+  .row
+  {
+    margin-top:10px;
+    margin-bottom:20px;
+  }

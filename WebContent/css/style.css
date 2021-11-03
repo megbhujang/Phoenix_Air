@@ -1,0 +1,112 @@
+h2
+{
+color:white;
+}
+
+
+p
+{
+
+color:white;
+}
+.container
+{
+	width:100%;
+	margin:auto;
+color:white;
+
+}
+body
+{
+	font:15px/1.5 Arial,Helvetica,sans-serif;
+	padding:0;
+color:#7df9ff;
+	background-color:black;
+	margin:0;
+	padding-left:0;
+	color:black;
+}
+header
+{
+	background:#000000;
+	color:#7df9ff;
+	padding-top:30px;
+
+	min-height:150px;
+	
+}
+#bgh
+{
+	background-image:url("..img/val.jpg");
+	background-repeat: no-repeat;
+margin-left:100px;
+margin-right:100px;
+width:80%;
+}
+.jumbotron
+{
+	width:100%;
+	background-color:gray;
+	margin-left:0;
+	text-align:center;
+color:#7df9ff;
+}
+#small
+{
+	min-height:30px;
+color:#7df9ff;
+}
+#navy ul
+{
+	margin:0;
+	padding:0;
+
+}
+#navy
+{
+	background-color:white;
+	color:black;
+	width:100%;
+	padding-top:10px;
+	text-align:center;
+	min-height:50px;
+	border-top:#000011 3px solid;
+	border-bottom:#000011 3px solid;
+}
+#navy a{
+	color:black;
+	text-decoration:none;
+	font-size:16px;
+}
+#navy li{
+	float:left;
+	display:inline;
+	padding:0 20px 0 20px;
+}
+
+header #logo{
+	float:left;
+	padding-right:30px
+	;}
+	.carousel-inner img {
+      width: 1000px;
+      height: 800px;
+margin-left:100px;
+margin-right:100px;
+  }
+
+  footer
+  {
+  	width:100%;
+  	padding-top:20px;
+  	padding-bottom:20px;
+
+  	margin-top:20px;
+  	color:black;
+  	background-color:white;
+
+  }
+  .pp
+  {
+  	font-size:15px;
+  }
